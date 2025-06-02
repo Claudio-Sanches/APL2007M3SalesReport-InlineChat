@@ -1,0 +1,14 @@
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.exe
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.deps.json
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.runtimeconfig.json
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.dll
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\bin\Debug\net8.0\APL2007M3SalesReport-InlineChat.pdb
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.AssemblyInfoInputs.cache
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.AssemblyInfo.cs
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.csproj.CoreCompileInputs.cache
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.dll
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\refint\APL2007M3SalesReport-InlineChat.dll
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.pdb
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\APL2007M3SalesReport-InlineChat.genruntimeconfig.cache
+C:\Users\Claudio B Sanches\Desktop\Claudio\Estudos Mycrosoft\application_2\SampleApps (1)\APL2007M3SalesReport-InlineChat\obj\Debug\net8.0\ref\APL2007M3SalesReport-InlineChat.dll
